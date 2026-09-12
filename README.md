@@ -79,4 +79,9 @@ ask not to be reminded again.
 
 ## Contact
 
-Amr Fawzy, Institut für Erdmessung (IfE), Leibniz University Hannover
+**Dr.-Ing. Johannes Kröger**
+Institut für Erdmessung (IfE), Leibniz Universität Hannover
+Schneiderberg 50, D-30167 Hannover
+
+Email: [kroeger@ife.uni-hannover.de](mailto:kroeger@ife.uni-hannover.de)
+Web: [www.ife.uni-hannover.de](https://www.ife.uni-hannover.de)
