@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pyproj
+astropy
+requests
+pillow
+ttkbootstrap

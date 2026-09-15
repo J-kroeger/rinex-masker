@@ -1,0 +1,5 @@
+# Test obstruction mask
+# Simulate building to the south-southwest
+180, 270, 40
+# Simulate trees to the north
+340, 20, 15

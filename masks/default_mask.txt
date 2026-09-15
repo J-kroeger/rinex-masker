@@ -1,0 +1,12 @@
+# Default Obstruction Mask for RINEX-Masker
+# ============================================
+# This is a sample obstruction mask that can be used as a starting point.
+# Format: azimuth_from, azimuth_to, elevation_limit [degrees]
+#
+# Observations within the azimuth range AND below the elevation limit
+# will be removed from the RINEX file.
+#
+# Example: A building to the south (170-220 deg) blocking up to 35 deg elevation
+170, 220, 35
+# Example: Trees to the north-east (30-60 deg) blocking up to 15 deg elevation
+30, 60, 15
